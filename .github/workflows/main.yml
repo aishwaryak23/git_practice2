@@ -1,6 +1,6 @@
 name: generate prodcast feed
 on: [push]
- jobs:
+jobs:
   build:
    runs-on: ubuntu-latest
    steps:
